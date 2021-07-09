@@ -1,5 +1,5 @@
 # FlappyBird-JavaScript
 
-Videogame: Flappy Bird Project, created using JavaScript, and The HTML5 canvas.
+Videogame: Flappy Bird Project, created using JavaScript, and The HTML5 canvas.  
 
-learnWD Tutorial link : https://www.youtube.com/watch?v=L07i4g-zhDA
+[CLICK HERE TO PLAY GAME](https://IvanVlademirS.github.io/FlappyBird_JS_Project/)  
