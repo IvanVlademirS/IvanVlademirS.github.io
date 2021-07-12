@@ -247,7 +247,7 @@ ul {
 
 .b-blue {
   margin-bottom: -2px;
-  background-image: url(../img/1.png);
+  background-image: url(/img/1.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -256,7 +256,7 @@ ul {
 }
 
 .b-red {
-  background-image: url(../img/3-min.png);
+  background-image: url(/img/3-min.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -267,7 +267,7 @@ ul {
 
 .b-green {
   margin-top: -2px;
-  background-image: url(../img/4.png);
+  background-image: url(/img/4.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -277,7 +277,7 @@ ul {
 
 .b-yellow {
   margin-top: -1px;
-  background-image: url(../img/2.png);
+  background-image: url(/img/2.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
