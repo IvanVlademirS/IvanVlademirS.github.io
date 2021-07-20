@@ -1,3 +1,2 @@
 # IvanVlademirS.github.io  
-Ivan Digital Career Website Repository  
-
+Ivan github.io repo - utilized to host github pages projects.
